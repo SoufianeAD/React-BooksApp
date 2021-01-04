@@ -1,0 +1,4 @@
+.book-list-item:hover {
+    cursor: pointer;
+    background-color: #eee;
+}
